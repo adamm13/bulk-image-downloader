@@ -2,3 +2,13 @@ body {
   height: 500;
   width: 300;
 }
+
+img {
+  height : 250px;
+  width: 300px;
+}
+
+#download_all {
+    padding-left: 100px;
+    padding-right: 100px;
+}
