@@ -4,16 +4,16 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     let formatted_images = [];
 
     let images = $('img').map((i, img) => {
-        if ($(img).data('src')) {
-            formatted_images.push ({
-              src: $(img).data('src')
-            })
-        } else if ($(img).src) {
-            formatted_images.push ({
-              src: $(img).src
-            })
+      if ($(img).data('src')) {
+        formatted_images.push({
+          src: $(img).data('src')
+        })
+      } else if ($(img).src) {
+        formatted_images.push({
+          src: $(img).src
+        })
 
-        }
+      }
     })
     sendResponse(formatted_images);
   }
