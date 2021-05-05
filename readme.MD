@@ -7,7 +7,7 @@ This Chrome Extension was built to allow the user to download all the images on 
 ## Screenshots
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/adamm13/downloader/blob/master/pics/downloadergif.gif"/>
 </p>
 
 ---
