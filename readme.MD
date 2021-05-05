@@ -28,7 +28,7 @@ This Chrome Extension was built to allow the user to download all the images on 
 
 ## Installation
 
-*Pending Review from Chrome Webstore.
+*Pending Review from Chrome Webstore.*
 
 1. Fork and Clone Repository 
 2. Create a Chrome Developer account and visit [Chrome Extensions](chrome://extensions/) in Google Chrome
