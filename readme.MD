@@ -1,6 +1,6 @@
 # Bulk Image Downloader - Chrome Extension 
 
-This Chrome Extension was built to allow the user to download all the images on a google image search and also works on many other websites. It was Built as part of the [Front End Development Course](https://www.udemy.com/course/front-end-web-development/)
+This Chrome Extension was built to allow the user to download all the images on a google image search and also works on many other websites. It was Built as part of the [Front End Development Course](https://www.udemy.com/course/front-end-web-development/) from Udemy.
 
 ---
 
